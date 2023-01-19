@@ -1,0 +1,692 @@
+Uri: http://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-d7070e8b408cf38ac16f3-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\cldr-resource-pack-d7070e8b408cf38ac16f3-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-06ca9074c0ac1037ea462-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\common-06ca9074c0ac1037ea462-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-32d182f27bd385f225a84-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\common-32d182f27bd385f225a84-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-5a36cff05409e0dd02831-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\common-5a36cff05409e0dd02831-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-vendors-757e0720f6324ef3873f5-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\common-vendors-757e0720f6324ef3873f5-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-673d482d883e1c7ecd140-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\common-vendors-stable-673d482d883e1c7ecd140-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-d1f18164ea45593b130e3-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\common-vendors-stable-d1f18164ea45593b130e3-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-961c1dadacddcd46ac816-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\extract-css-runtime-961c1dadacddcd46ac816-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ae821cadaedc8090374a5-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\extract-css-runtime-ae821cadaedc8090374a5-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-e2bc3831ec13c721c293a-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\extract-css-runtime-e2bc3831ec13c721c293a-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/performance-922e045878a3b9eb87db3-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\scripts-compressed\performance-922e045878a3b9eb87db3-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://www.partycakeshop.com/
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\index-1.htm
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/?fbclid=IwAR35wgrTzF6pFp-wf9Kr3MnO_yIB7nUlOWX7HUhlzAqj6o1JLH32Zk4cg6o
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\index.htm
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/about
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\about.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/breads-1
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\breads-1.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/breakfast-1
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\breakfast-1.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/cookies-1
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\cookies-1.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/cupcakes
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\cupcakes.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/custom
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\custom.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/index?format=rss
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\index
+Content Type: application/rss+xml
+
+Uri: http://www.partycakeshop.com/jobs
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\jobs.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/new-page-1
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\new-page-1.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/operatinghours
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\operatinghours.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/pies-1
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\pies-1.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/specials
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\specials.html
+Content Type: text/html
+
+Uri: http://www.partycakeshop.com/specialtycakes
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\specialtycakes.html
+Content Type: text/html
+
+Uri: https://assets.squarespace.com/universal/default-favicon.ico
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\default-favicon.ico
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,300;1,500;1,600;1,700
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://images.squarespace-cdn.com/
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\index-2.htm
+Content Type: 
+
+Uri: https://images.squarespace-cdn.com/content/562409ace4b08ff533ee36cc/1587922088641-5QBRFN41F3H7RMMDN4P3/Operating+Hours+.jpg?content-type=image%2Fjpeg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\562409ace4b08ff533ee36cc\1587922088641-5QBRFN41F3H7RMMDN4P3\Operating Hours .jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/562409ace4b08ff533ee36cc/1590360251335-732H1POXH1XHKOP8324Y/Butter%2BCookies.jpg?content-type=image%2Fjpeg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\562409ace4b08ff533ee36cc\1590360251335-732H1POXH1XHKOP8324Y\Butter+Cookies.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/0271f2a8-38de-47ba-9c17-86057f112c5e/rg.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\0271f2a8-38de-47ba-9c17-86057f112c5e\rg.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805822231-L4AQ075PG6DJI3Y6OFDX/Chocolate+Cream+Torte.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805822231-L4AQ075PG6DJI3Y6OFDX\Chocolate Cream Torte.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805822254-SG53IDBD5FZJJRPM4NKB/Burnt+Almond+Torte+Slices.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805822254-SG53IDBD5FZJJRPM4NKB\Burnt Almond Torte Slices.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805822372-11EYFRW5E3V600EFK52J/Chocolate+Peanut+Butter+Cake.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805822372-11EYFRW5E3V600EFK52J\Chocolate Peanut Butter Cake.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805822428-43728N28DH4NO20S349Q/Creme+de+Menthe.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805822428-43728N28DH4NO20S349Q\Creme de Menthe.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805823185-BJ9KITN20NSQPQTTEIMW/Santa.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805823185-BJ9KITN20NSQPQTTEIMW\Santa.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805823355-9WMZJ966C49SWNTHS4YC/Valentine+Heart.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805823355-9WMZJ966C49SWNTHS4YC\Valentine Heart.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805823479-Q4G76NWJ6SH2199HTZX9/Pot-O-Gold.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805823479-Q4G76NWJ6SH2199HTZX9\Pot-O-Gold.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805931827-19RNWMJSTCMBEAGM0UY2/Boy+or+Girl.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805931827-19RNWMJSTCMBEAGM0UY2\Boy or Girl.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805932649-C9B8RBO5B83L9ITCO6TC/Monumental+Birthday.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805932649-C9B8RBO5B83L9ITCO6TC\Monumental Birthday.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805932885-JX4U4G92FZI61EGGU9Y0/Older+Than+Dirt.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805932885-JX4U4G92FZI61EGGU9Y0\Older Than Dirt.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805933031-XUUP67FVV5ECSP25I14Q/Spiderman.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805933031-XUUP67FVV5ECSP25I14Q\Spiderman.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447805933055-F0J5B8Q3P64G1ABNZOGP/Sunflower.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447805933055-F0J5B8Q3P64G1ABNZOGP\Sunflower.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447806128211-8TDVVZO6UC4AYOXHRXP5/Cherry+Pie.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447806128211-8TDVVZO6UC4AYOXHRXP5\Cherry Pie.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447806128247-Y1WTR4HJS4X5TFOJ071K/Individual+Strawberry+Tarte.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447806128247-Y1WTR4HJS4X5TFOJ071K\Individual Strawberry Tarte.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447806166922-IXHX1I85VKKV2G17T1E3/Buttercream+Cookies.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447806166922-IXHX1I85VKKV2G17T1E3\Buttercream Cookies.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447806166969-FD0ALTSTCAUEX63RAX5U/Butter+Cookies.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447806166969-FD0ALTSTCAUEX63RAX5U\Butter Cookies.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447806241374-DANIN5RMCEWQP98C2LU8/Cinnamon+Raisin.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447806241374-DANIN5RMCEWQP98C2LU8\Cinnamon Raisin.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447806241386-3T51TQ0YR7YIRASJXNJP/Foccacia+Bread.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447806241386-3T51TQ0YR7YIRASJXNJP\Foccacia Bread.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447808711503-GLQUUTW7MGJDJ21IYPZR/image-asset.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447808711503-GLQUUTW7MGJDJ21IYPZR\image-asset.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1447810264341-U0TKD2D4ZWD4VTGD9BZX/image-asset.jpeg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1447810264341-U0TKD2D4ZWD4VTGD9BZX\image-asset.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378784197-HL80KHFS53U82QF5WLAQ/NEW.French+Bread.JPG
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378784197-HL80KHFS53U82QF5WLAQ\NEW.French Bread.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378785509-2SJ4DTT1S1VT5KKH8Y4L/NEW.Italian+Bread.JPG
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378785509-2SJ4DTT1S1VT5KKH8Y4L\NEW.Italian Bread.JPG
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378786382-6G8M5HCBOOJJSL1DC1G9/NEW.Egg+Bread.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378786382-6G8M5HCBOOJJSL1DC1G9\NEW.Egg Bread.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378786728-US03GC0XBHN1T45ZPODP/NEW.Raisin+Puska+Bread.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378786728-US03GC0XBHN1T45ZPODP\NEW.Raisin Puska Bread.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378820349-PVV5CBF4Q48F72KXYAW1/NEW.Chocolate+Drop.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378820349-PVV5CBF4Q48F72KXYAW1\NEW.Chocolate Drop.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378821400-GTHTKX6F3ZWIXB75I6AK/NEW.Jelly+Cookies.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378821400-GTHTKX6F3ZWIXB75I6AK\NEW.Jelly Cookies.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378822490-RR94UL4EZTRE4K6MQRVR/NEW.Kolachy.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378822490-RR94UL4EZTRE4K6MQRVR\NEW.Kolachy.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378824067-25HPEV5YAHV8L22PDFTH/NEW.Chocolate+Chip+Cookies.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378824067-25HPEV5YAHV8L22PDFTH\NEW.Chocolate Chip Cookies.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378824528-OWLYPIVHG4TX3QY83LHW/NEW.Peanut+Butter+Blossom.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378824528-OWLYPIVHG4TX3QY83LHW\NEW.Peanut Butter Blossom.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378825660-CF9ABAO1SAUI6T0XRCSF/NEW.Sugar+Cookies.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378825660-CF9ABAO1SAUI6T0XRCSF\NEW.Sugar Cookies.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378826573-W024BCRAE46H227ZL7H5/NEW.Thumbprints.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378826573-W024BCRAE46H227ZL7H5\NEW.Thumbprints.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378858072-KE9C5GLSU6A2TAZUGE34/NEW.Pumpkin+Pie.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378858072-KE9C5GLSU6A2TAZUGE34\NEW.Pumpkin Pie.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378909692-H10GL9AJA7CKZGMU482V/NEW.Raspberry+Torte.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378909692-H10GL9AJA7CKZGMU482V\NEW.Raspberry Torte.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448378909832-56GIU73HEHQVS4RBLY64/NEW.Brunt+Almond+Torte.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448378909832-56GIU73HEHQVS4RBLY64\NEW.Brunt Almond Torte.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448390299317-7LUM3A7M4DGX2ADDLODX/Chocolate+Iced+Doughnut.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448390299317-7LUM3A7M4DGX2ADDLODX\Chocolate Iced Doughnut.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448390299333-MB9OVR7DQPHTRNLDBXZ7/CoffeeCakes.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448390299333-MB9OVR7DQPHTRNLDBXZ7\CoffeeCakes.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448390299458-M6KBLR8ZMA7834RTCJWX/Maple+Bacon+Doughnut.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448390299458-M6KBLR8ZMA7834RTCJWX\Maple Bacon Doughnut.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448390299488-MAAFLMDA8FAHJ1A9QW9Z/Pretzel+Dougnut.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448390299488-MAAFLMDA8FAHJ1A9QW9Z\Pretzel Dougnut.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448390299563-S5NSELW4PB743KS7UFES/Sprinkle+Cruller.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448390299563-S5NSELW4PB743KS7UFES\Sprinkle Cruller.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448390310481-MMVYYI87HRT0YEQLFUTS/NEW.Cream+Puff.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448390310481-MMVYYI87HRT0YEQLFUTS\NEW.Cream Puff.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448390310712-BNC49Y3VLIRGNM3H6G01/NEW.Chocolate+Eclair.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448390310712-BNC49Y3VLIRGNM3H6G01\NEW.Chocolate Eclair.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448390323453-8PAQ0DTZ0WQPIAYGAUW3/Apricot+Sticks.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448390323453-8PAQ0DTZ0WQPIAYGAUW3\Apricot Sticks.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448390323492-NFHPW4GPKLL9Y4YN9IY3/Turnover.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448390323492-NFHPW4GPKLL9Y4YN9IY3\Turnover.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448391753420-TRZCWB8Y7KVFFJDX4ERT/Choclate+Mint+Cupcakes.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448391753420-TRZCWB8Y7KVFFJDX4ERT\Choclate Mint Cupcakes.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448391753439-DXOYAZLFY89B02Z65526/Flower+Cupcake.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448391753439-DXOYAZLFY89B02Z65526\Flower Cupcake.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448391765599-VZYLW4VWH3XAIHFA31TP/NEW.Red+Velvet+Cupcakes.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448391765599-VZYLW4VWH3XAIHFA31TP\NEW.Red Velvet Cupcakes.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448391766072-DVLYG1DK6YESGVHKM99W/Tye+Dye+Cupcakes.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448391766072-DVLYG1DK6YESGVHKM99W\Tye Dye Cupcakes.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448917732569-8DUL2CK0TVBISL3LQV96/saltedcaramel.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448917732569-8DUL2CK0TVBISL3LQV96\saltedcaramel.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448917742218-WTT4KH4FVO7SL5LW21BQ/maplewalnut.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448917742218-WTT4KH4FVO7SL5LW21BQ\maplewalnut.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448917806823-FZMR8S2LISWKX7B3A68R/lemon.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448917806823-FZMR8S2LISWKX7B3A68R\lemon.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448918111730-VEQ52BKXL9SSJJ0I833E/brownie.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448918111730-VEQ52BKXL9SSJJ0I833E\brownie.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448918190536-Q3SHSEAYPW3CMTBAOE23/chocolatecovered.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448918190536-Q3SHSEAYPW3CMTBAOE23\chocolatecovered.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448918350930-5GI3JGY1JOINB9FJMHQW/paczki.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448918350930-5GI3JGY1JOINB9FJMHQW\paczki.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448918542176-OC4SXY5P3JEGGDFFC6BT/orangecrush.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448918542176-OC4SXY5P3JEGGDFFC6BT\orangecrush.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1448918826652-7OMCQQUS0EEUVYALOH5E/merringue.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1448918826652-7OMCQQUS0EEUVYALOH5E\merringue.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502140064194-HB96D4NYCJVFJ46PXSTY/Cupcake1.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502140064194-HB96D4NYCJVFJ46PXSTY\Cupcake1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502140064865-RAXNOBVN00DT5CFV3YVA/Cupcake3.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502140064865-RAXNOBVN00DT5CFV3YVA\Cupcake3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502140064872-NISPEUH0P5G6QBLD80VL/Cupcake4.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502140064872-NISPEUH0P5G6QBLD80VL\Cupcake4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502140065299-T98T3VOH1XZE0OPRBXL1/Cupcake6.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502140065299-T98T3VOH1XZE0OPRBXL1\Cupcake6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502140071598-M7D18N2AAC1MO7U9OPTI/Cupcake5.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502140071598-M7D18N2AAC1MO7U9OPTI\Cupcake5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502140600233-UO49KVEONTOT76GQ32XO/Cake13.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502140600233-UO49KVEONTOT76GQ32XO\Cake13.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502140600754-T51XE6MFZZTYROX3W791/cake15.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502140600754-T51XE6MFZZTYROX3W791\cake15.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502140954238-QOXNYV36P9Z89KXHLAKF/cake17.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502140954238-QOXNYV36P9Z89KXHLAKF\cake17.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502141403902-6KGX49DZTSO19KV8LXRE/Custom.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502141403902-6KGX49DZTSO19KV8LXRE\Custom.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502141404158-J9A15Z0DNCFPQZ8BQMN3/Easter-Specialty.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502141404158-J9A15Z0DNCFPQZ8BQMN3\Easter-Specialty.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502141483154-8JWRN3MSUAD6PVFSN0G9/Cupcakes-emoji.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502141483154-8JWRN3MSUAD6PVFSN0G9\Cupcakes-emoji.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1502141483257-1222GGPG8VMAWZ3PKGUN/Cupcakes-Swirl.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1502141483257-1222GGPG8VMAWZ3PKGUN\Cupcakes-Swirl.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1551830341664-VNNUPF4NVMK6YTEBCSIH/FallBasketWeave.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1551830341664-VNNUPF4NVMK6YTEBCSIH\FallBasketWeave.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1551830342971-BFJRIJ6PTZ19PLQZN5MR/FallCornacopia.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1551830342971-BFJRIJ6PTZ19PLQZN5MR\FallCornacopia.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1551830344204-4A9Q60ZP364NJ0929BJI/fallFlowers.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1551830344204-4A9Q60ZP364NJ0929BJI\fallFlowers.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1551830345275-XAQM1DZTHV3XJB5UQUUZ/SpringFlowerBirthday.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1551830345275-XAQM1DZTHV3XJB5UQUUZ\SpringFlowerBirthday.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1551830347262-DH8ADVP7GZUQ4DJ73H1X/ChristmasLights.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1551830347262-DH8ADVP7GZUQ4DJ73H1X\ChristmasLights.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1551830347958-NHZKDKY0ML25HVRQXZ9T/Snowman.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1551830347958-NHZKDKY0ML25HVRQXZ9T\Snowman.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1551830351926-66AWQ8NZRN383FNOGA2E/PinkSwirlOmbre.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1551830351926-66AWQ8NZRN383FNOGA2E\PinkSwirlOmbre.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1551830354611-W6644N1XHJDU7U6SRPRO/PotsOfGoldenRainbow.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1551830354611-W6644N1XHJDU7U6SRPRO\PotsOfGoldenRainbow.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1551830360245-B2HXEUNNVGLS7YLQ6P4B/Pretty+Letters+and+Flowers.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1551830360245-B2HXEUNNVGLS7YLQ6P4B\Pretty Letters and Flowers.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1566048289693-M39A12P0XHH4UHC0MGH6/RainbowCupcakesMG_4500.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1566048289693-M39A12P0XHH4UHC0MGH6\RainbowCupcakesMG_4500.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1566048289827-V4YQSAEX1BWSJLUQJL0R/Carmel%26LemonCupcakeIMG_4505.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1566048289827-V4YQSAEX1BWSJLUQJL0R\Carmel&LemonCupcakeIMG_4505.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1566048376020-4ZTNUR8O3GNRJ79EYHAZ/ICookiesMG_4506.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1566048376020-4ZTNUR8O3GNRJ79EYHAZ\ICookiesMG_4506.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1566048421192-BO87RWI0FN1AOOT9E7ZT/CannoliMG_4503.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1566048421192-BO87RWI0FN1AOOT9E7ZT\CannoliMG_4503.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1566048483765-EVY6NIDZD95UTDMIN34K/ChocChipCakeIMG_4504.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1566048483765-EVY6NIDZD95UTDMIN34K\ChocChipCakeIMG_4504.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1566049471159-OD4O5DQUR3J9EJI8BNM0/CuteFlower2IMG_4546.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1566049471159-OD4O5DQUR3J9EJI8BNM0\CuteFlower2IMG_4546.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1566049472212-WJCKLREHAUO1N5IUUPS9/CuteFlowerCakeIMG_4545.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1566049472212-WJCKLREHAUO1N5IUUPS9\CuteFlowerCakeIMG_4545.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1566049474072-JSMKT1MPTO2WBDN2JXY9/FlowerSheetcakeIMG_4541.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1566049474072-JSMKT1MPTO2WBDN2JXY9\FlowerSheetcakeIMG_4541.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1566049630105-5E66O731L20WYAXEN5F4/FlowerCupcakeIMG_4537.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1566049630105-5E66O731L20WYAXEN5F4\FlowerCupcakeIMG_4537.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/1587924773097-5FEO2BAP2JAFJCKNQMNI/Scaled+to+Fit.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\1587924773097-5FEO2BAP2JAFJCKNQMNI\Scaled to Fit.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/caa41d7f-4a9c-4b95-93f0-ff80f0a8580d/pghcitypaper.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\caa41d7f-4a9c-4b95-93f0-ff80f0a8580d\pghcitypaper.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/562409ace4b08ff533ee36cc/cf426cc2-bfda-4ef1-8e0e-7a20e5980357/DigitalSticker_2022.jpg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\content\v1\562409ace4b08ff533ee36cc\cf426cc2-bfda-4ef1-8e0e-7a20e5980357\DigitalSticker_2022.jpg
+Content Type: image/jpeg
+
+Uri: https://static1.squarespace.com/static/sitecss/562409ace4b08ff533ee36cc/44/52e96934e4b0ea14d0f64568/562409ace4b08ff533ee36d2/1128/site.css
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\static\sitecss\562409ace4b08ff533ee36cc\44\52e96934e4b0ea14d0f64568\562409ace4b08ff533ee36d2\1128\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1128/scripts/site-bundle.js
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\static\ta\52e968b5e4b04d2aa2a3bba3\1128\scripts\site-bundle.js
+Content Type: application/javascript
+
+Uri: https://static1.squarespace.com/universal/images-v6/damask/image-inside-128-dark.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\image-inside-128-dark.png
+Content Type: image/png
+
+Uri: https://static1.squarespace.com/universal/images-v6/damask/image-inside-64-dark.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\damask\image-inside-64-dark.png
+Content Type: image/png
+
+Uri: https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://static1.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://static1.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Downloaded Web Sites\www.partycakeshop.com\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
